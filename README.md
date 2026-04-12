@@ -1,22 +1,10 @@
 # 👋 Hi, I'm Onkar Kalyankar
 
-**AI & Data Science Student | ML Engineer | RAG Systems Builder | Open Source Enthusiast**
+**AI & Data Science Student | ML Engineer**
 
 ---
 
 ## 🚀 About Me
-
-🔭 **Currently Working On:**
-
-* Intelligent Insurance QA System (RAG + FAISS + SBERT + LLMs)
-* Document Analysis System using Phi-3 (Local LLM)
-* Electricity Demand Forecasting using ML
-
-🌱 **Currently Learning:**
-
-* Advanced RAG Architectures
-* System Design for AI Applications
-* LLM Optimization & Prompt Engineering
 
 🏆 **Achievements:**
 
@@ -35,23 +23,17 @@
 
 ### 💻 Core Technologies
 
-`Python` `C/C++` `SQL` `JavaScript`
+`Python` `C/C++` `SQL`
 
 ### 🤖 AI/ML
 
-`TensorFlow` `PyTorch` `SBERT` `FAISS` `LLMs`
+`TensorFlow` `PyTorch` `LLMs`
 
 ### 🌐 Development
 
-**Frontend:**
-`HTML` `CSS` `React`
-
-**Backend:**
-`Flask` `FastAPI`
-
 ### 🗄️ Databases
 
-`MySQL` `MongoDB`
+`MySQL` `PostgresSQL`
 
 ### 🧰 Tools
 
@@ -61,21 +43,13 @@
 
 ## 🔥 Featured Projects
 
-### 📌 Insurance Document QA System
+### 📌 Document Analysis System
 
 * RAG-based system for clause retrieval & reasoning
-* Uses FAISS + SBERT + Gemini API
-* 📊 Achieved **83.69% semantic accuracy**
-
-### 📌 Crop Price Prediction
-
-* Time-series forecasting using LightGBM & TFT
-* Integrated weather + seasonal features
-
-### 📌 Document Analysis System (Phi-3)
-
+* Uses FAISS + SBERT
 * Local LLM-based intelligent document query system
 * Works on PDF, DOCX, Emails
+* 📊 Achieved **83.69% semantic accuracy**
 
 ---
 
@@ -102,4 +76,4 @@
 * Open Source Contributions
 
 🌐 Portfolio: (add link)
-📧 Email: (your email)
+📧 Email: (onkarkalyankar11@gmail.com)

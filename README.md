@@ -8,15 +8,10 @@
 
 🏆 **Achievements:**
 
-* 🥇 Smart India Hackathon Finalist (AI-Based Solutions)
+* 🥇 Smart India Hackathon 2024 Winner
 * 📊 Built ML systems with **83%+ semantic accuracy**
 * 🚀 Developed multiple real-world AI projects
-
-📫 **Connect With Me:**
-
-* LinkedIn: (add your link)
-* Email: (your email)
-
+  
 ---
 
 ## 🛠️ Tech Stack

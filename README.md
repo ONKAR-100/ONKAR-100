@@ -9,7 +9,7 @@
 🏆 **Achievements:**
 
 * 🥇 Smart India Hackathon 2024 Winner
-* 📊 Built ML systems with **83%+ semantic accuracy**
+* 📊 Built ML systems with **Good accuracy**
 * 🚀 Developed multiple real-world AI projects
   
 ---
